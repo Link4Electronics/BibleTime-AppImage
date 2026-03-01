@@ -10,6 +10,7 @@ export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=/usr/share/icons/hicolor/scalable/apps/info.bibletime.BibleTime.svg
 export DESKTOP=/usr/share/applications/info.bibletime.BibleTime.desktop
+export APPNAME=BibleTime
 export STARTUPWMCLASS=
 export ALWAYS_SOFTWARE=1
 
