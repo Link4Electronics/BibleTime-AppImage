@@ -11,7 +11,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/icons/hicolor/scalable/apps/info.bibletime.BibleTime.svg
 export DESKTOP=/usr/share/applications/info.bibletime.BibleTime.desktop
 export APPNAME=BibleTime
-export STARTUPWMCLASS=
+export STARTUPWMCLASS=info.bibletime.BibleTime
 export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
