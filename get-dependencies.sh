@@ -10,7 +10,6 @@ pacman -Syu --noconfirm \
     bibletime     \
     kvantum       \
     lxqt-qtplugin \
-    qt6-speech    \
     qt6ct
 
 echo "Installing debloated packages..."
