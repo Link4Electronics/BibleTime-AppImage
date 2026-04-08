@@ -12,6 +12,8 @@ export ICON=/usr/share/icons/hicolor/scalable/apps/info.bibletime.BibleTime.svg
 export DESKTOP=/usr/share/applications/info.bibletime.BibleTime.desktop
 export APPNAME=BibleTime
 export STARTUPWMCLASS=info.bibletime.BibleTime
+export DEPLOY_QT=1
+export QT_DIR=qt6
 export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
